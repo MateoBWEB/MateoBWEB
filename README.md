@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML CSS PYTHON, and in the future JAVASCRIPT
 - 💞️ I’m looking to collaborate on anything, just trying to learn, and be able to pass down the knowledge to other people who are interested!
-- 📫 How to reach me easiest way to reach me is through my email address: MateoBWeb@gmail.com 
+- 📫 How to reach me easiest way to reach me is through my email address: Mateo.BWeb@gmail.com 
 - :) 
 
 
